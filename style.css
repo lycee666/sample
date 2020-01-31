@@ -222,11 +222,11 @@ border-left: 8px solid rgba(0,70,128,1.00);
 	
 	.header {
 		
-		height: 90px;
+		height: 150px;
 	}
 	
 	.header img {
-		height: 75px;
+		height: 130px;
 	}
 	
 	.content, .contents, .contents-box
@@ -289,11 +289,11 @@ border-left: 8px solid rgba(0,70,128,1.00);
 	
 	.header {
 		
-		height: 90px;
+		height: 150px;
 	}
 	
 	.header img {
-		height: 75px;
+		height: 130px;
 	}
 	.content, .contents, .contents-box
 	{
@@ -341,7 +341,7 @@ border-left: 8px solid rgba(0,70,128,1.00);
     }
     
     .tabs {
-        height: 550px;
+        height: 700px;
 		width: 90%;
     }
 	
@@ -361,9 +361,13 @@ border-left: 8px solid rgba(0,70,128,1.00);
 
 
 @media ( max-width : 375px ){
+	
+	.header {
+		height: 150px;
+	}
 
 	.header img {
-		height: 60px;
+		height: 130px;
 	}
 	
 	.content, .contents, .contents-box
@@ -400,7 +404,7 @@ border-left: 8px solid rgba(0,70,128,1.00);
 	left: 186px;
 }
 	.content {
-		height: 100%;
+		height: 85%;
 	}
     
     .content div p {
@@ -410,7 +414,7 @@ border-left: 8px solid rgba(0,70,128,1.00);
     
     .tabs {
         height: 800px;
-		width: 90%;
+	width: 90%;
     }
     
    
