@@ -360,7 +360,7 @@ border-left: 8px solid rgba(0,70,128,1.00);
 
 
 
-@media ( max-width : 375px ){
+@media ( max-width : 390px ){
 	
 	.header {
 		height: 150px;
