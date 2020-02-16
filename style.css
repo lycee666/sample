@@ -201,7 +201,7 @@ border-left: 8px solid rgba(0,70,128,1.00);
 .contents-box-right {
 	width: 100%;
 	height: 31.7315332%;
-	background-image: url("background7.jpg");
+	background-image: url("img/background7.jpg");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -211,7 +211,7 @@ border-left: 8px solid rgba(0,70,128,1.00);
 .contents-box-left {
 	width: 100%;
 	height: 31.7315332%;
-	background-image: url("background6.jpg");
+	background-image: url("img/background6.jpg");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
